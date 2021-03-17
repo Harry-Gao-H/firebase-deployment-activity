@@ -2,7 +2,7 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>
-      CI is implememted through github workflows. 
+      CI is implemented through github workflows. 
     </p>
   </div>
 </template>
